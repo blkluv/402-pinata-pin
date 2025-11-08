@@ -7,8 +7,8 @@
   "account_id": "178d3fda8eb7eb5be4c0d076ce2ba7d2",
   "vars": {
     "NETWORK": "base",
-    "CDP_API_KEY_ID": "8c781c80-f32f-4a09-b662-2e48d5178dfb",
-    "PINATA_GATEWAY_URL": "pink-tremendous-badger-644.mypinata.cloud"
+    "CDP_API_KEY_ID": "c219e237-6eb9-4604-b0bf-3aa620b3ef9a",
+    "PINATA_GATEWAY_URL": "xrp.mypinata.cloud"
   },
   // "kv_namespaces": [
   //   {
