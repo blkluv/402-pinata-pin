@@ -1,10 +1,6 @@
 {
   "name": "402-server",
-    "type": "module",
-  "scripts": {
-    "dev": "wrangler dev",
-    ...
-  },
+  "type": "module",
   "scripts": {
     "dev": "wrangler dev",
     "dev:test": "wrangler dev --local",
